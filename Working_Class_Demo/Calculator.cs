@@ -20,5 +20,18 @@ namespace Working_Class_Demo
             return num1 * num2;
 
         }
+
+        //Lets test subtraction.
+        public double Subtract(double num1, double num2)
+        {
+            return num1 - num2;
+        }
+
+        //Lets test Division.
+
+        public double Division(double num1, double num2)
+        {
+            return num1 / num2;
+        }
     }
 }
